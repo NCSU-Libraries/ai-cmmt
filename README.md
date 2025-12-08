@@ -98,6 +98,10 @@ This notebook demonstrates **AI-driven cell type identification** using gene exp
 
 ---
 
+## 📚 Workshop Materials
+
+The slide deck `AI Tools for Research - CMMTP.pdf` provides an introduction to the workshop and covers the concepts and techniques demonstrated in these notebooks.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -152,6 +156,7 @@ ai-cmmt/
 ├── CMMTP_example_images.zip            # Example microscopy images
 ├── rank_genes_groups_by_cluster_JP.xlsx # Gene expression data
 ├── Result of Result of SUM_CL586_1.nd2 - CL586_1.nd2 (series 01) - C=0.tif  # Example image
+├── AI Tools for Research - CMMTP.pdf   # Workshop slide deck
 ├── pyproject.toml                       # Project dependencies
 ├── uv.lock                              # Dependency lock file
 └── README.md                            # This file
