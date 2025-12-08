@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files
+*.csv
+*.xlsx
+*.tif
+*.tiff
+*.nd2
+extracted_images/
+*.zip
+
+# Exceptions: keep these specific files
+!rank_genes_groups_by_cluster_JP.xlsx
+!CMMTP_example_images.zip
+!Result of Result of SUM_CL586_1.nd2 - CL586_1.nd2 (series 01) - C=0.tif
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+**/__MACOSX/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+cell_analysis_results.csv
+annotated_clusters.csv
+main.py
+
+# uv
+# Note: uv.lock should be committed for reproducibility
+

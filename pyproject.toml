@@ -1,0 +1,14 @@
+[project]
+name = "ai-cmmt"
+version = "0.1.0"
+description = "AI-Powered Cell Microscopy Analysis & Cell Type Annotation - Demonstrates AI/ML techniques for biological image analysis and cell type identification"
+requires-python = ">=3.9"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.9.4",
+    "numpy>=2.0.2",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "scikit-image>=0.24.0",
+    "seaborn>=0.13.2",
+]
